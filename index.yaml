@@ -3,7 +3,7 @@ entries:
   gitrepo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-15T19:03:23.577299844Z"
+    created: "2022-02-15T19:28:22.740275264Z"
     description: A Helm chart for Kubernetes
     digest: bcea667b05ae3737ce3c204aa9ffa9bd467d2891d7e5d2e9bd6dcf5503708e01
     name: gitrepo
@@ -11,4 +11,15 @@ entries:
     urls:
     - gitrepo-0.1.0.tgz
     version: 0.1.0
-generated: "2022-02-15T19:03:23.576001362Z"
+  second-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-02-15T19:28:22.741027576Z"
+    description: A Helm chart for Kubernetes
+    digest: a72d3dd01474f76e7525ce4e7f190e82ad45e1d7ef705489565a0b5246df698f
+    name: second-chart
+    type: application
+    urls:
+    - second-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-02-15T19:28:22.739189837Z"
